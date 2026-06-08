@@ -1,0 +1,10 @@
+tensorflow-cpu
+scikit-learn
+pandas
+numpy
+optuna
+scikeras
+joblib
+shap
+matplotlib
+seaborn
