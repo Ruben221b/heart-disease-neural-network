@@ -19,12 +19,11 @@
 
 ---
 
-# 🚀 Try It Live ### EN CONSTRUCCIÓN
+# 🚀 Try It Live
 
-<a href="https://huggingface.co/spaces/Ruben221b/iris-nn-classifier" target="_blank">👉 Test the model with your own data</a>
+<a href="https://huggingface.co/spaces/Ruben221b/heart-disease-neural-network" target="_blank">👉 Test the model</a>
 
-
-Enter your own sepal and petal measurements and get an instant prediction with confidence scores.
+Choose between different profiles and see the results for yourself.
 
 ---
 
